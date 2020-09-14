@@ -33,4 +33,12 @@ h6:hover{
   .imgClass:hover{
     transform:scale(2);
   }
+
+  button{
+    border-style: dotted;
+    background: yellow;
+  }
   
+  button:hover{
+    opacity:0.5;
+  }
